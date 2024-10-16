@@ -20,7 +20,7 @@
 
 # Intro
 
-* _OpenVPN =>_ https://tryhackme.com/room/openvpn
+- [] * _OpenVPN =>_ https://tryhackme.com/room/openvpn
 * _Welcome =>_ https://tryhackme.com/jr/welcome
 * _Tutorial =>_ https://tryhackme.com/room/tutorial
 * _Intro To Offensive Security =>_ https://tryhackme.com/room/introtooffensivesecurity
